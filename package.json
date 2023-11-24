@@ -1,0 +1,73 @@
+{
+<<<<<<< HEAD
+  "name": "news",
+=======
+  "name": "newsapp",
+>>>>>>> 4a3905e (Project Folder Structure)
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-toggle-dark-mode": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.4.5"
+=======
+    "@alan-ai/alan-sdk-web": "^1.8.54",
+    "@emotion/css": "^11.10.6",
+    "@emotion/react": "^11.10.6",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.6",
+    "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^2.0.17",
+    "@splidejs/react-splide": "^0.7.12",
+    "@splidejs/splide-extension-auto-scroll": "^0.5.3",
+    "annyang": "^2.6.1",
+    "axios": "^1.6.2",
+    "locomotive-scroll": "^5.0.0-beta.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-loader-spinner": "^5.4.5",
+    "react-modern-drawer": "^1.2.2",
+    "react-query": "^3.39.3",
+    "react-router-dom": "^6.20.0",
+    "react-toggle-dark-mode": "^1.1.1",
+    "sass": "^1.64.0",
+    "three": "^0.121.0",
+    "vanta": "^0.5.24"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.4",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^5.0.0"
+>>>>>>> 4a3905e (Project Folder Structure)
+  }
+}
