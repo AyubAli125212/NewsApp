@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-<<<<<<< HEAD
-=======
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -21,4 +19,3 @@
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
->>>>>>> 4a3905e (Project Folder Structure)

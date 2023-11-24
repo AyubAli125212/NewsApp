@@ -1,22 +1,4 @@
 import React from "react";
-<<<<<<< HEAD
-import { Navbar, Banner, Catagories, TopPosts, News } from "./components";
-import { Container } from "postcss";
-
-function App() {
-  return (
-    <div className="bg-gray-300">
-      <Container>
-        <Navbar />
-        <Banner />
-        <Catagories />
-        <TopPosts />
-        <News />
-      </Container>
-    </div>
-  );
-}
-=======
 import { Routes, Route } from "react-router-dom";
 import Landing from "./pages/Landing";
 import Home from "./pages/Home";
@@ -33,6 +15,5 @@ const App = () => {
     </Routes>
   );
 };
->>>>>>> 4a3905e (Project Folder Structure)
 
 export default App;
